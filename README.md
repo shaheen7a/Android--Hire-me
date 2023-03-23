@@ -3,7 +3,7 @@
 
 Thanks for checking out this Application.
 
-![Hire](./showcase/view01.gif)
+![Hire](./showcase/view01.png)
 ![Hire](./showcase/view02.png)
 
 ## Overview
