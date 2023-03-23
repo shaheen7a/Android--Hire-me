@@ -4,7 +4,7 @@
     "web": {
       "bundler": "metro"
     },
-    "name": "hire-me",
-    "slug": "hire-me"
+    "name": "jobsift",
+    "slug": "jobsift"
   }
 }
