@@ -7,8 +7,7 @@ Thanks for checking out this Application.
 ![Hire](./showcase/view02.png)
 
 ## Overview
-A full functional application for applying to different jobs and opportunities
-along with a great UI.
+A full-featured application that allows users to apply for jobs and opportunities with ease, featuring a sleek and user-friendly interface. A powerful tool for job seekers, with a wide range of features to help them find and apply for their dream jobs.
 
 ### Links
 
