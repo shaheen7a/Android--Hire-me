@@ -12,7 +12,7 @@ A full-featured application that allows users to apply for jobs and opportunitie
 ### Links
 
 - App URL: [Github](https://github.com/shaheen7a/Android--Hire-me.git)
-- APK Link: API is not working anymore 💔
+- APK Link: API unavailable
 
 ## My process
 
